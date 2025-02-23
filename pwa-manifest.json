@@ -1,0 +1,30 @@
+{
+  "name": "Pwa-able Slack",
+  "short_name": "Pwa-able Slack",
+  "start_url": "https://app.slack.com/client",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#562b57",
+  "theme_color": "#562b57",
+  "display_override": [
+    "window-controls-overlay"
+  ],
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/causingh/test/test/assets/16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/causingh/test/test/assets/48x48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/causingh/test/test/assets/128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": null
+}
